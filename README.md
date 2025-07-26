@@ -1,6 +1,6 @@
-# Hi 👋, I'm Engin!
+# 👋 Hi, I'm Engin!
 
-### A passionate developer from Germany :)
+### A passionate developer from Germany.
 
 ### About Me:
 - 👨‍💻 I work as a **Junior DevOps Engineer** at **Generali**
@@ -13,4 +13,4 @@ and many more!
 </p>
 
 ### GitHub Statistics:
-<img src="https://github-readme-stats.vercel.app/api?username=enginkarakurt&theme=transparent&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide_rank=true" alt="enginkarakurt's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=enginkarakurt&theme=ambient_gradient&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide_rank=true" alt="enginkarakurt's GitHub Stats" />
