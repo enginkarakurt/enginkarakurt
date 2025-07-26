@@ -12,5 +12,5 @@
 and many more!
 </p>
 
-### GitHub Statistics:
+### Statistics:
 <img src="https://github-readme-stats.vercel.app/api?username=enginkarakurt&theme=default&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide_rank=true" alt="enginkarakurt's GitHub Stats" />
