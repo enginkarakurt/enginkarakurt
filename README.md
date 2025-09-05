@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Engin!
-
-### A passionate developer from Germany.
+A Software Developer from Germany. I like building my own personal projects and contributing to open source! :)
 
 ### About Me:
 - 🧑 I'm **22** years old
